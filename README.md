@@ -15,3 +15,8 @@
 3. we need to walk to lakdikapul
 4. we need to take a subway to osmania college
 5. at last we need to take a walk to salar jung museum
+* osmanina university
+* Nizam museum
+* Badshahi Ashurkhana
+* Charminar
+* ISKCON Hyderabad Sri Sri Radha Madanmohan Mandir
