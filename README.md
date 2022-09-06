@@ -22,3 +22,17 @@
 * ISKCON Hyderabad Sri Sri Radha Madanmohan Mandir
 
 [Link to AboutMe](Aboutme.md)
+
+***
+
+# Famous places 
+
+Here the below table is about famous locations in the city and the time required for visiting
+
+|Name of the city |location in city  |Time required   |
+|:----------------|:-------------------|:-----------------|
+| Vijayawada     | prakasam barrage  |     1 hour      |
+| Hyderabad      | cable bridge      |     30 min      |
+| vizag          | Araku             |     48 hours    |
+| Gokarna        | Gokarna Beaches   |     5 hours     |
+
