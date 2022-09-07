@@ -36,3 +36,13 @@ Here the below table is about famous locations in the city and the time required
 | vizag          | Araku             |     48 hours    |
 | Gokarna        | Gokarna Beaches   |     5 hours     |
 
+***
+
+# Quotations
+
+> If it matters to you, you’ll find a way. – *Charlie Gilkey*
+
+> Happiness depends upon ourselves. – *Aristotle*
+
+
+
