@@ -45,4 +45,21 @@ Here the below table is about famous locations in the city and the time required
 > Happiness depends upon ourselves. – *Aristotle*
 
 
+***
 
+# Code fencing HTML comments
+
+> HTML comments within comments
+
+<https://stackoverflow.com/questions/3773719/html-comments-within-comments>
+
+```
+{
+  <div id="header">
+   <p>Stuff</p>
+</div> <!-- END div-header -->
+
+}
+
+```
+<https://css-tricks.com/snippets/html/comments-in-html/>
